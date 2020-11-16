@@ -1,5 +1,5 @@
 # smart-task
-Semantic Answer Type Prediction task at ISWC 2020 [https://smart-task.github.io/](https://smart-task.github.io/)
+[IAI](http://iai.group) participation at Semantic Answer Type Prediction task at ISWC 2020 [https://smart-task.github.io/](https://smart-task.github.io/)
 
 # Results on the training and test data of the task
 ## Evaluation results for Category classification
