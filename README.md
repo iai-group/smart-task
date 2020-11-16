@@ -1,5 +1,5 @@
 # smart-task
-Semantic Answer Type Prediction task at ISWC 2020
+Semantic Answer Type Prediction task at ISWC 2020 [https://smart-task.github.io/](https://smart-task.github.io/)
 
 # Results on the training and test data of the task
 ## Evaluation results for Category classification
