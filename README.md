@@ -1,7 +1,7 @@
 # smart-task
 Semantic Answer Type Prediction task at ISWC 2020
 
-# Results on the training data of the task
+# Results on the training and test data of the task
 ## Evaluation results for Category classification
 
 | Method   |      DataSet      |  Train Accuracy | Test Accuracy |
