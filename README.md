@@ -14,7 +14,7 @@ Semantic Answer Type Prediction task at ISWC 2020
 ## Evaluation results for Resource Type classification  (DBPedia)
 
 | Method   |      DataSet      |  Train NDCG@5 | Train NDCG@10 | Test  NDCG@5 | Test NDCG@10 |
-|----------|:-------------:|------:|------:|
+|----------|:-------------:|------:|------:|------:|------:|
 | SVM-XBERT |  DBPedia | 0.773 | 0.744 | 0.790 | 0.778 | 
 | BERT-XBERT |  DBPedia | 0.776 | 0.747 |  0.804 | 0.793 |
 | BERT-IR Type-centric (BM25) | DBpedia | 0.492 | 0.509 | | |
