@@ -14,20 +14,20 @@
 
 ## Evaluation results for Resource Type classification  (DBPedia)
 
-| Method   |      DataSet      |  Train NDCG@5 | Train NDCG@10 | Test  NDCG@5 | Test NDCG@10 |
-|----------|:-------------:|------:|------:|------:|------:|
-| SVM-XBERT |  DBPedia | 0.773 | 0.744 | 0.790 | 0.778 | 
-| BERT-XBERT |  DBPedia | 0.776 | 0.747 |  0.804 | 0.793 |
-| BERT-IR Type-centric (BM25) | DBpedia | 0.492 | 0.509 | | |
-| BERT-IR Type-centric (LM) | DBpedia | 0.526 | 0.541 | | | 
-| BERT-IR Entity-centric (BM25, k=20) | DBpedia | 0.483 | 0.503 | | |
-| BERT-IR Entity-centric (BM25, k=50) | DBpedia | 0.448 | 0.474 | | |
-| BERT-IR Entity-centric (BM25, k=100) | DBpedia | 0.423 | 0.444 | | |
+| Method   | Train NDCG@5 | Train NDCG@10 | Test  NDCG@5 | Test NDCG@10 |
+|----------|------:|------:|------:|------:|
+| SVM-XBERT  | 0.773 | 0.744 | 0.790 | 0.778 | 
+| BERT-XBERT  | 0.776 | 0.747 |  0.804 | 0.793 |
+| BERT-IR Type-centric (BM25)  | 0.492 | 0.509 | | |
+| BERT-IR Type-centric (LM)  | 0.526 | 0.541 | | | 
+| BERT-IR Entity-centric (BM25, k=20)  | 0.483 | 0.503 | | |
+| BERT-IR Entity-centric (BM25, k=50)  | 0.448 | 0.474 | | |
+| BERT-IR Entity-centric (BM25, k=100)  | 0.423 | 0.444 | | |
 
 
 ## Evaluation results for Resource Type classification  (Wikidata)
-| Method   |      DataSet      |  Train MRR | Test MRR | 
+| Method   |  Train MRR | Test MRR | 
 |----------|:-------------:|------:|------:|
-| SVM-XBERT | Wikidata |  0.66  | 0.67|
-| BERT-XBERT | Wikidata |  0.67  | 0.67|
+| SVM-XBERT  |  0.66  | 0.67|
+| BERT-XBERT  |  0.67  | 0.67|
 
