@@ -1,7 +1,7 @@
 # smart-task
 [IAI](http://iai.group) participation at Semantic Answer Type Prediction task at ISWC 2020 [https://smart-task.github.io/](https://smart-task.github.io/)
 
-# Results on the training and test data of the task
+# Results runs on the training and test data of the task can be found in [results](results) folder
 ## Evaluation results for Category classification
 
 | Method   |      DataSet      |  Train Accuracy | Test Accuracy |
