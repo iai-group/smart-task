@@ -27,7 +27,7 @@
 
 ## Evaluation results for Resource Type classification  (Wikidata)
 | Method   |  Train MRR | Test MRR | 
-|----------|:-------------:|------:|------:|
+|----------|------:|------:|
 | SVM-XBERT  |  0.66  | 0.67|
 | BERT-XBERT  |  0.67  | 0.67|
 
